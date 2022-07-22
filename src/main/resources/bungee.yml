@@ -1,0 +1,3 @@
+name: ServerrCreator Proxy
+version: '${project.version}'
+main: me.otatoge.serverrcreatorproxy.Main
